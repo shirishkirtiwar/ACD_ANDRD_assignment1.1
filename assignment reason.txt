@@ -1,0 +1,5 @@
+I was able to create an AVD but as you can see by 
+the screenshot attached. 
+The processing is stuck on "installing apk" and
+the progress bar is stuck.
+couldn't get it to work on ANdroid Emulator.
